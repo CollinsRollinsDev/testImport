@@ -1,0 +1,16 @@
+body{
+  background-color: whitesmoke;
+  color: black;
+  height: 100vh;
+  width: 100%;
+  font-size: 24px;
+  font-weight: 400;
+  font-style: italic;
+  font-family: monospace;
+}
+.loginSide{
+  color: red;
+}
+#signupId{
+  color: purple;
+}
